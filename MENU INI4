@@ -6,66 +6,33 @@
  
  
 <channel>
-<name>[COLOR yellow][B]Seja bem vindo ao Pirate Kodi Torrents[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
-<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
+<name>PIRATE KODI(INICIATIVA PIRATA)</name>
+<thumbnail>https://i1.wp.com/www.emotioncard.com.br/wp-content/uploads/2016/04/a8b1b8398d3642ee1805871a0d340c28.jpg?resize=450%2C450</thumbnail>
 <externallink></externallink>
-<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<fanart>https://emby.media/community/uploads/inline/76/555c0f78d94ed_movies1920x1080.jpg</fanart>
 <info></info>
 </channel>
  
 <channel>
-<name>[COLOR yellow][B]CANAIS DE TV[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
-<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
-<externallink></externallink>
-<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
-<info>Algums Filmes</info>
-</channel>
- 
-<channel>
-<name>[COLOR yellow][B]FILMES[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
-<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
-<externallink>https://pastebin.com/raw/1pxpWjbg</externallink>
-<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
-<info>Algums Filmes</info>
-</channel>
- 
-<channel>
-<name>[COLOR yellow][B]SERIES[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
-<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
-<externallink>https://pastebin.com/raw/vmctNQmM</externallink>
-<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
-<info>Algums Filmes</info>
-</channel>
- 
-<channel>
-<name>[COLOR yellow][B]SHOWS[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
-<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
-<externallink></externallink>
-<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
-<info>Algums Filmes</info>
-</channel>
- 
- 
-<channel>
-<name>[COLOR yellow][B]RADIOS [/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
-<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
-<externallink>https://pastebin.com/raw/DJfqXseT</externallink>
-<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<name>TV AO VIVO</name>
+<thumbnail>https://image.freepik.com/vetores-gratis/logotipo-neon-de-televisao_29503-63.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Rcy2x0s2</externallink>
+<fanart>https://emby.media/community/uploads/inline/76/555c0f78d94ed_movies1920x1080.jpg</fanart>
 <info></info>
 </channel>
  
 <channel>
-<name>[COLOR yellow][B]DESENHOS[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
-<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
-<externallink>https://pastebin.com/raw/fM2Q3Sb2</externallink>
-<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<name>RADIOS ONLINE</name>
+<thumbnail>https://img.freepik.com/vetores-gratis/icone-de-neon-de-radio-receptor-com-sinal-de-antena-e-wifi_1262-15928.jpg?size=338&ext=jpg</thumbnail>
+<externallink>https://pastebin.com/raw/pAuYxXLv</externallink>
+<fanart>https://emby.media/community/uploads/inline/76/555c0f78d94ed_movies1920x1080.jpg</fanart>
 <info></info>
 </channel>
  
 <channel>
-<name>[COLOR yellow][B]NOVELAS[/B][/COLOR] [COLOR red]VERSAO 1.0[/COLOR]</name>
-<thumbnail>https://images.vexels.com/media/users/3/189708/isolated/preview/f0add49e1fe7b06c201d2b6df808334e-caveira-pirata-desenhada-by-vexels.png</thumbnail>
-<externallink>https://pastebin.com/raw/fqpWLP81</externallink>
-<fanart>https://img.ibxk.com.br/2020/03/12/12153220665121.jpg?w=1120&h=420&mode=crop&scale=both</fanart>
+<name>CAMERAS ONLINE</name>
+<thumbnail>https://image.freepik.com/vetores-gratis/sinal-de-neon-do-sinal-da-camera-da-foto_73458-507.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/5aLBt0Q7</externallink>
+<fanart>https://emby.media/community/uploads/inline/76/555c0f78d94ed_movies1920x1080.jpg</fanart>
 <info></info>
 </channel>
